@@ -13,4 +13,6 @@ Description          :        This is a self contained package which includes al
                               
 Usage Instruction    :        Clone the repository into your local machine and run the Text_Editor_Widget executable application.
 
+Check https://github.com/nvvishnu/TextEditor-in-Qt for the project source code
+
                               This works only on Linux based OS.
